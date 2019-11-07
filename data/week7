@@ -18,7 +18,7 @@
           enableDocument: true // default is true
       }
       // A MusicXML file
-      var file = 'data/SwingLow.mei';
+      var file = 'data/Swing.mei';
       // A MEI file
       //var file = 'https://www.verovio.org/editor/brahms.mei';
       const app = new Verovio.App(document.getElementById("app"), options);
@@ -33,7 +33,7 @@
   <script>
     // Get, parse, and show TEI data
     var CETEIcean = new CETEI()
-    CETEIcean.getHTML5("data/SwingLow.mei", function(data) {
+    CETEIcean.getHTML5('data/Swing.mei', function(data) {
       document.getElementById("TEI").appendChild(data)
     })
     // Get, parse and show MEI header data
@@ -43,7 +43,7 @@
         mei: "http://www.music-encoding.org/ns/mei"
       }
     })
-    CETEI4MEI.getHTML5("data/Swing Low.mei", function(data) {
+    CETEI4MEI.getHTML5('data/Swing.mei' , function(data) {
       // get header
       var meiHead = data.querySelector('mei-meiHead')
       document.getElementById("MEImeta").appendChild(meiHead)
