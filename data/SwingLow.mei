@@ -5,9 +5,36 @@
     <meiHead>
         <fileDesc>
             <titleStmt>
-                <title>Swing Low</title>
+                <title>Swing Low,</title>
+                    <title type="subtitle">
+                        <identifier>Work of Burleigh, Harry Thacker</identifier>
+                    </title>
+                <muso:subgenre> This piece is in a romantic style
+                <muso:notation
             </titleStmt>
-            <pubStmt></pubStmt>
+            <editionStmt>
+                <title>Swing Low, Sweet Chariot</title>
+                <date>1917<date>
+                    <pubplace>New York</pubplace>
+            </editionstmt>
+            <extent unit="Mbytes">0.42<extent>
+            <pubStmt>
+                <publisher>
+                    <corpName>University of Glasgow Information Studies</corpname>
+                </publisher>
+                <address>
+                    <addrline>
+                        <geogName>Glasgow</geogname>
+                    </addrline>
+                    <addrline>
+                        <geogname>United Kingdome</geogname>
+                    </addrline>
+            </pubStmt>
+            <availability>
+                <useRestriction authURL="https://creativecommons.org/share-your-work/public-domain/"
+                    authority=creative commons">Creative Commons Attribution 4.0 International, CC BY-NC-SA
+               </userestriction>
+           </availability>
         </fileDesc>
         <encodingDesc xml:id="encodingdesc-0000001674628915">
             <appInfo xml:id="appinfo-0000000864811495">
