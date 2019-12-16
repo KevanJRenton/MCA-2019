@@ -1,5 +1,5 @@
 # MCA
-<a href="https://kevanjrenton.github.io/MCA-2019/verovio.html"> week3</a>/ 
+<a href="https://kevanjrenton.github.io/MCA-2019/verovio.html"> week3</a>
 
 Week 1 Task 3 the theme for my data set will be the song Swing Low sweet chariote. it is a song created in 1917 and has been made into different genres the one I shall be using is a romantic version according to the freemusic archive of the piece and has been written in 1917 and it appears to be one of the first.
 
